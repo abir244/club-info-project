@@ -1,0 +1,21 @@
+{
+  "clubName": "Tech Enthusiasts Club",
+  "established": 2018,
+  "president": "Jane Smith",
+  "email": "techclub@example.com",
+  "weeklyMeeting": "Thursdays at 6:00 PM in Room 302",
+  "events": [
+    {
+      "name": "Web Development Workshop",
+      "date": "October 15, 2025"
+    },
+    {
+      "name": "Hackathon 2025",
+      "date": "November 5-7, 2025"
+    },
+    {
+      "name": "Industry Expert Talk",
+      "date": "December 10, 2025"
+    }
+  ]
+}
